@@ -1,4 +1,4 @@
-d# SKButton - Custom Canvas Button for Xojo 2025 R3 (API 2.0)
+# SKButton - Custom Canvas Button for Xojo 2025 R3 (API 2.0)
 
 A highly customizable, modern button control built as a subclass of `DesktopCanvas`. Designed to overcome the limitations of the standard `DesktopButton` while providing native-like behavior and appearance.  
 
